@@ -1,2 +1,3 @@
-# foundations-of-data-science-preprocessing
-Python programs for basic data handling, preprocessing, cleaning, normalization, and descriptive statistics.
+# Foundations of Data Science – Data Preprocessing
+This repository contains Python programs related to data handling,
+cleaning, preprocessing, normalization, and descriptive statistics.
