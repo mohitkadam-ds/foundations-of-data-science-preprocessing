@@ -1,0 +1,7 @@
+import pandas as pd
+df = pd.DataFrame({'Marks': [45, 56, 67, 89, 90, 56, 76, 88]})
+print("Mean:", df['Marks'].mean())
+print("Median:", df['Marks'].median())
+print("Mode:", df['Marks'].mode())
+print("Variance:", df['Marks'].var())
+print("Std Dev:", df['Marks'].std())
