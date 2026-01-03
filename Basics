@@ -1,0 +1,11 @@
+import numpy as np
+import pandas as pd
+a, b = 10, 5
+print("Addition:", a + b)
+print("Division:", a / b)
+numbers = [1, 2, 3, 4, 5]
+print("List:", numbers)
+student = {"name": "John", "age": 21, "marks": 85}
+print("Dictionary:", student)
+print("Numpy version:", np.__version__)
+print("Pandas version:", pd.__version__)
